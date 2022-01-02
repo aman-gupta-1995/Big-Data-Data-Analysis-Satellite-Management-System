@@ -23,4 +23,3 @@ Easy EDA may also be used due to its online availability.
 
 ### Contact
 You can contact us via https://fossa.systems/contact
-
