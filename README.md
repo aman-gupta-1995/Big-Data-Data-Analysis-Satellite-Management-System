@@ -18,7 +18,7 @@ This project uses [OTBS style](https://en.wikipedia.org/wiki/Indentation_style#1
 The JPL created a coding standard with IEEE and NASA that you can read [here](https://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf). This standard makes sure that any code being produced will be as robust as possible. Please don't be intimidated by it, just keep the [Power of Ten](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code) in mind and we'll ask you to correct a merge request if necessary.
 
 ### Hardware
-Please use KiCad or a file format that can be interpreted by KiCad. This makes sure that anyone can access and modify the hardware in this project without needing access to proprietary software.
+Please use KiCad or a file format that can be interpreted by KiCad. This makes sure that anyone can access and modify the hardware in this project without needing access to proprietary software. 
 Easy EDA may also be used due to its online availability.
 
 ### Contact
