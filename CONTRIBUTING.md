@@ -4,7 +4,7 @@ _From our Readme:_
 Any ideas & contributions are deeply apreciatted.
 ## Software
 This plans to be in space, where it cannot be maintained. For that reason, the number one software priority is software. To help with this, keep the following in mind:
- 
+
 ### Use OTBS
 This project uses OTBS style (K&R style but with braces whenever possible). This helps ensure code clarity and avoid mistakes that come from ambiguity.
 
