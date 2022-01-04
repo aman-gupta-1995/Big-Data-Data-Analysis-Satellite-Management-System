@@ -1,4 +1,4 @@
-_From our Readme:_
+_From ourReadme:_
 # Contributing 
 
 Any ideas & contributions are deeply apreciatted.
