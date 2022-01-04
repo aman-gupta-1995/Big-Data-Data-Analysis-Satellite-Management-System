@@ -13,3 +13,4 @@ The JPL created a coding standard with IEEE and NASA that you can read here. Thi
 
 ## Hardware
 Please use KiCad or a file format that can be interpreted by KiCad. This makes sure that anyone can access and modify the hardware in this project without needing access to proprietary software.
+ 
