@@ -1,6 +1,6 @@
 _From Readme:_ 
 # Contributing
-
+ 
 Any ideas & contributions are deeply apreciatted.
 ## Software
 This plans to be in space, where it cannot be maintained. For that reason, the number one software priority is software. To help with this, keep the following in mind:
