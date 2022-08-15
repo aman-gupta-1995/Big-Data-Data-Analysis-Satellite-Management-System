@@ -5,7 +5,7 @@ This new pocketqube form factor allowed by the recent development in smartphone 
      
 FossaSat-1 will provide free and open source IoT communications for the globe using inexpensive LoRa modules, where students will be able to communicate with a satellite for under EUR 20. This new radio system has never been flown into space before and offers drastic improvements compared to current technology regarding cost and complexity. Additionally, this satellite will create a completely new environment dedicated to the testing of the student code.An Atmega Arduino powered pocketqube satellite focused on education and research, simplicity is a main focus. Anyone will be able to hear this satellite and communicate with it using cheap lora modules. The craft will transmit a LoRa RTTY signal which can be heard using simple and cheap hardware. It will be the first 1P satellite to have deployable solar cells and a LoRa transmitter. More specific info on each system can be read in each section. 
 
-## Contributing 
+## Contributing  
 Any ideas & contributions are deeply apreciatted, we are currently looking for Software Developers, Telecomunications Engineers & Electrical Engineers.
 
 ### Software
