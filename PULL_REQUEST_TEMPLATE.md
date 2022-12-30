@@ -7,5 +7,5 @@ This commit:
  - Follows the [Power of Ten](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
  - Uses Kicad-compatable formats if it's electrical hardware
  
- 
+  
  
