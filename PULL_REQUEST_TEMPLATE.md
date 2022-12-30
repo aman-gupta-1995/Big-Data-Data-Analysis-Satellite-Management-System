@@ -2,7 +2,7 @@
 Put a summary of the changes here :)          
     
 #### Standards Compliance              
-This commit:            
+This commit:             
  - Uses [OTBS](
  - https://en.wikipedia.org/wiki/Indentation_style#1TBS) if it's code
  - Follows the [Power of Ten]
